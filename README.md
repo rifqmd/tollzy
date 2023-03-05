@@ -9,7 +9,7 @@ Install tollzy with npm
 
 ```bash
   npm install tollzy
-  cd my-project
+  cd tollzy
 ```
 
 Run
